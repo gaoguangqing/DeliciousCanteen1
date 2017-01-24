@@ -1,0 +1,90 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml:2:1-28:12
+	xmlns:android
+		ADDED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml:3:11-47
+		INJECTED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml:5:11-36
+		INJECTED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml:4:11-34
+		INJECTED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml:6:5-43
+	android:targetSdkVersion
+		INJECTED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml:6:15-41
+		INJECTED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml:7:5-27:19
+	android:label
+		ADDED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml:7:18-50
+	android:icon
+		ADDED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml:7:51-83
+	android:theme
+		ADDED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml:8:9-62
+activity#com.spoon.DeliciousCanteen.ShoppingActivity
+ADDED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml:9:9-11:20
+	android:label
+		ADDED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml:10:19-51
+	android:name
+		ADDED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml:9:19-51
+activity#com.spoon.DeliciousCanteen.login.StartActivity
+ADDED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml:12:9-17:20
+	android:name
+		ADDED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml:12:19-54
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml:15:17-76
+	android:name
+		ADDED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml:15:27-74
+activity#com.spoon.DeliciousCanteen.ScoreActivity
+ADDED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml:18:9-50
+	android:name
+		ADDED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml:18:19-48
+activity#com.spoon.DeliciousCanteen.login.UserLoginActivity
+ADDED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml:19:9-60
+	android:name
+		ADDED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml:19:19-58
+activity#com.spoon.DeliciousCanteen.OrderActivity
+ADDED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml:20:9-50
+	android:name
+		ADDED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml:20:19-48
+activity#com.spoon.DeliciousCanteen.login.ChoiceActivity
+ADDED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml:21:9-57
+	android:name
+		ADDED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml:21:19-55
+activity#com.spoon.DeliciousCanteen.login.AdmLoginActivity
+ADDED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml:22:9-59
+	android:name
+		ADDED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml:22:19-57
+activity#com.spoon.DeliciousCanteen.BuySucceedActivity
+ADDED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml:23:9-55
+	android:name
+		ADDED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml:23:19-53
+activity#com.spoon.DeliciousCanteen.FeedBackActivity
+ADDED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml:24:9-53
+	android:name
+		ADDED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml:24:19-51
+activity#com.spoon.DeliciousCanteen.FeedBackSucceed
+ADDED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml:25:9-52
+	android:name
+		ADDED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml:25:19-50
+activity#com.spoon.DeliciousCanteen.StudentAccountChoiceActivity
+ADDED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml:26:9-65
+	android:name
+		ADDED from E:\Studio\DeliciousCanteen1\app\src\main\AndroidManifest.xml:26:19-63

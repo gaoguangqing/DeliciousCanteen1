@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "E:\\Studio\\DeliciousCanteen1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f2.jpg",
+        "source": "E:\\Studio\\DeliciousCanteen1\\app\\src\\main\\res\\drawable-hdpi\\f2.jpg"
+    },
+    {
+        "merged": "E:\\Studio\\DeliciousCanteen1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f1.jpg",
+        "source": "E:\\Studio\\DeliciousCanteen1\\app\\src\\main\\res\\drawable-hdpi\\f1.jpg"
+    },
+    {
+        "merged": "E:\\Studio\\DeliciousCanteen1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_checked.png",
+        "source": "E:\\Studio\\DeliciousCanteen1\\app\\src\\main\\res\\drawable-hdpi\\checkbox_checked.png"
+    },
+    {
+        "merged": "E:\\Studio\\DeliciousCanteen1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f6.jpg",
+        "source": "E:\\Studio\\DeliciousCanteen1\\app\\src\\main\\res\\drawable-hdpi\\f6.jpg"
+    },
+    {
+        "merged": "E:\\Studio\\DeliciousCanteen1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f5.jpg",
+        "source": "E:\\Studio\\DeliciousCanteen1\\app\\src\\main\\res\\drawable-hdpi\\f5.jpg"
+    },
+    {
+        "merged": "E:\\Studio\\DeliciousCanteen1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\Studio\\DeliciousCanteen1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Studio\\DeliciousCanteen1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f4.jpg",
+        "source": "E:\\Studio\\DeliciousCanteen1\\app\\src\\main\\res\\drawable-hdpi\\f4.jpg"
+    },
+    {
+        "merged": "E:\\Studio\\DeliciousCanteen1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\delicious.png",
+        "source": "E:\\Studio\\DeliciousCanteen1\\app\\src\\main\\res\\drawable-hdpi\\delicious.png"
+    },
+    {
+        "merged": "E:\\Studio\\DeliciousCanteen1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f7.jpg",
+        "source": "E:\\Studio\\DeliciousCanteen1\\app\\src\\main\\res\\drawable-hdpi\\f7.jpg"
+    },
+    {
+        "merged": "E:\\Studio\\DeliciousCanteen1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\canteen.png",
+        "source": "E:\\Studio\\DeliciousCanteen1\\app\\src\\main\\res\\drawable-hdpi\\canteen.png"
+    },
+    {
+        "merged": "E:\\Studio\\DeliciousCanteen1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f3.jpg",
+        "source": "E:\\Studio\\DeliciousCanteen1\\app\\src\\main\\res\\drawable-hdpi\\f3.jpg"
+    },
+    {
+        "merged": "E:\\Studio\\DeliciousCanteen1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox.xml",
+        "source": "E:\\Studio\\DeliciousCanteen1\\app\\src\\main\\res\\drawable-hdpi\\checkbox.xml"
+    },
+    {
+        "merged": "E:\\Studio\\DeliciousCanteen1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_normal.png",
+        "source": "E:\\Studio\\DeliciousCanteen1\\app\\src\\main\\res\\drawable-hdpi\\checkbox_normal.png"
+    }
+]

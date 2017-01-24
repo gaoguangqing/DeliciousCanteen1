@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent" android:alpha="100">
+
+    <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageViewFood" android:layout_alignParentTop="true" android:layout_alignParentLeft="true"
+            android:src="@drawable/f1"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="红烧丸子"
+            android:textSize="35dp"
+            android:id="@+id/textViewName" android:layout_alignParentTop="true" android:layout_toRightOf="@+id/imageViewFood"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="价格："
+            android:textSize="20dp"
+            android:id="@+id/textViewPrice" android:layout_below="@+id/textViewName" android:layout_toRightOf="@+id/imageViewFood"/>
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="New Text"
+            android:textSize="25dp"
+            android:id="@+id/textView" android:layout_below="@+id/textViewName" android:layout_toRightOf="@+id/textViewPrice"
+            android:textColor="#ff96ff5b"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="评分："
+            android:textSize="20dp"
+            android:id="@+id/textView3"
+            android:layout_alignBaseline="@+id/textVeiwScore" android:layout_alignBottom="@+id/textVeiwScore"
+            android:layout_toLeftOf="@+id/textVeiwScore"/>
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="2.5"
+            android:id="@+id/textVeiwScore"
+            android:textColor="#ffffe941" android:layout_alignBottom="@+id/imageViewFood" android:layout_alignLeft="@+id/textView"/>
+        <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:button="@drawable/checkbox"
+                android:id="@+id/checkBoxIsBuy"
+                android:checked="false"
+            android:layout_toRightOf="@+id/imageViewFood"
+            android:layout_toEndOf="@+id/imageViewFood"
+            android:layout_above="@+id/textVeiwScore" />
+</RelativeLayout>

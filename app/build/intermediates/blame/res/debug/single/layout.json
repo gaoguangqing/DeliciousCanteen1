@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "E:\\Studio\\DeliciousCanteen1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\buysucceed.xml",
+        "source": "E:\\Studio\\DeliciousCanteen1\\app\\src\\main\\res\\layout\\buysucceed.xml"
+    },
+    {
+        "merged": "E:\\Studio\\DeliciousCanteen1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\start.xml",
+        "source": "E:\\Studio\\DeliciousCanteen1\\app\\src\\main\\res\\layout\\start.xml"
+    },
+    {
+        "merged": "E:\\Studio\\DeliciousCanteen1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cart_item.xml",
+        "source": "E:\\Studio\\DeliciousCanteen1\\app\\src\\main\\res\\layout\\cart_item.xml"
+    },
+    {
+        "merged": "E:\\Studio\\DeliciousCanteen1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admlogin.xml",
+        "source": "E:\\Studio\\DeliciousCanteen1\\app\\src\\main\\res\\layout\\admlogin.xml"
+    },
+    {
+        "merged": "E:\\Studio\\DeliciousCanteen1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\score.xml",
+        "source": "E:\\Studio\\DeliciousCanteen1\\app\\src\\main\\res\\layout\\score.xml"
+    },
+    {
+        "merged": "E:\\Studio\\DeliciousCanteen1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item.xml",
+        "source": "E:\\Studio\\DeliciousCanteen1\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "E:\\Studio\\DeliciousCanteen1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feedback.xml",
+        "source": "E:\\Studio\\DeliciousCanteen1\\app\\src\\main\\res\\layout\\feedback.xml"
+    },
+    {
+        "merged": "E:\\Studio\\DeliciousCanteen1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\order.xml",
+        "source": "E:\\Studio\\DeliciousCanteen1\\app\\src\\main\\res\\layout\\order.xml"
+    },
+    {
+        "merged": "E:\\Studio\\DeliciousCanteen1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choice.xml",
+        "source": "E:\\Studio\\DeliciousCanteen1\\app\\src\\main\\res\\layout\\choice.xml"
+    },
+    {
+        "merged": "E:\\Studio\\DeliciousCanteen1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\Studio\\DeliciousCanteen1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\Studio\\DeliciousCanteen1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\userlogin.xml",
+        "source": "E:\\Studio\\DeliciousCanteen1\\app\\src\\main\\res\\layout\\userlogin.xml"
+    },
+    {
+        "merged": "E:\\Studio\\DeliciousCanteen1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feedbacksucceed.xml",
+        "source": "E:\\Studio\\DeliciousCanteen1\\app\\src\\main\\res\\layout\\feedbacksucceed.xml"
+    },
+    {
+        "merged": "E:\\Studio\\DeliciousCanteen1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\studentaccountchoice.xml",
+        "source": "E:\\Studio\\DeliciousCanteen1\\app\\src\\main\\res\\layout\\studentaccountchoice.xml"
+    }
+]

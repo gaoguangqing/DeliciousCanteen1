@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.spoon.DeliciousCanteen"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="19" />
+
+    <application
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:icon="@drawable/canteen"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Black.NoTitleBar" >
+        <activity
+            android:name="com.spoon.DeliciousCanteen.ShoppingActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity android:name="com.spoon.DeliciousCanteen.login.StartActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.spoon.DeliciousCanteen.ScoreActivity" />
+        <activity android:name="com.spoon.DeliciousCanteen.login.UserLoginActivity" />
+        <activity android:name="com.spoon.DeliciousCanteen.OrderActivity" />
+        <activity android:name="com.spoon.DeliciousCanteen.login.ChoiceActivity" />
+        <activity android:name="com.spoon.DeliciousCanteen.login.AdmLoginActivity" />
+        <activity android:name="com.spoon.DeliciousCanteen.BuySucceedActivity" />
+        <activity android:name="com.spoon.DeliciousCanteen.FeedBackActivity" />
+        <activity android:name="com.spoon.DeliciousCanteen.FeedBackSucceed" />
+        <activity android:name="com.spoon.DeliciousCanteen.StudentAccountChoiceActivity" />
+    </application>
+
+</manifest>

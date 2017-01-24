@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Studio\DeliciousCanteen1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="19.1.0"
+        sha1="d88ef08ffc9ba8732677c1a1c9eb7d58dad547d0">
+        <dex dex="E:\Studio\DeliciousCanteen1\app\build\intermediates\pre-dexed\debug\instant-run_aa925dd83ad9f1f493f6f5d4d66034c2facd223a.jar" />
+    </item>
+    <item
+        jar="E:\Studio\DeliciousCanteen1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="19.1.0"
+        sha1="996e76bc7037c4ac37911a5ef39ccc31256c96e8">
+        <dex dex="E:\Studio\DeliciousCanteen1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_a94f06574fc4d35b52173e1c1a358d29b58355e9.jar" />
+    </item>
+
+</items>
